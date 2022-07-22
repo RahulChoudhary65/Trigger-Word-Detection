@@ -4,6 +4,11 @@ Folder Size and .ipynb file size is large.So I wanna to provide whole folder goo
 [Trigger Word Detection Google-Drive Link](https://drive.google.com/drive/folders/15gma-zH-MdhJ_9Qol_n9bzkEoHW7Whjc?usp=sharing)
 
 
+
+
+
+
+
 Structured a speech recognition system with the help of sequence models.
 Synthesized and process audio recordings to create train/dev datasets.
 Train a trigger word word detection model and make predictions.
